@@ -10,4 +10,16 @@
 
 5- There will be no Car data in the start as i have the data localy stored in my DB so add few cars for understanding the system
 
+Screen Shots
 
+1- Home Screen
+![](1.png)
+
+
+
+2- Detail Page
+![](2.png)
+
+
+3- Add Record Form
+![](3.png)
